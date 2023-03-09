@@ -4,3 +4,8 @@ body {
   box-sizing: border-box;
   font-family: sans-serif;
 }
+
+html {
+  background-color: #0f172a;
+  height: '100%';
+}
